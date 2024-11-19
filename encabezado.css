@@ -1,0 +1,83 @@
+ *{margin: 0px; padding:0px;}
+body {
+	background: #FFFFFF;
+}
+header {
+	width: 100%;
+	overflow: hidden;
+	background: #222121;
+	margin-bottom: 20px;
+}
+.wrapper {
+	width: 90%;
+	max-width:5000px;
+	margin:auto;
+	overflow: hidden;
+}
+header .logo {
+	color: #2201F9;
+	font-size:50 px;
+	line-height: 30px;
+	loat: left;
+}
+header nav {
+	float: right;
+	line-height: 100px;
+		
+}
+header nav a {
+	display:inline-block;
+	color:#FFFFFF;
+	text-decoration: none;
+	padding: 10px 20px;
+	line-height: normal;
+	font-size:20px;
+	font-weight: bold;
+	-webkit-transition:all 500ms ease;
+	-o-transition:all 500ms ease;
+	transition: all 500ms ease;
+
+	
+}
+
+header nav a:hover {
+	background: #f56f3a;
+	border-radius: 50px;
+}
+.contenido {
+	padding-top: 50px;
+}
+.contenido p {
+	margin-bottom: 1em;
+}
+.blue{
+	color:#FFFAF0;
+	font-size:20px;
+}
+.ancho{
+	width: 20%;
+	height: 20px;
+
+}
+.red{
+	font-size:30px;
+	font-family:oblique;
+}
+.imagen-texto {
+  display: flex;
+  align-items: center; /* Alinea verticalmente la imagen y el texto */
+  gap: 10px; /* Espaciado entre la imagen y el texto */
+}
+
+.imagen-texto img {
+  width: 300px; /* Ajusta el tamaño de la imagen */
+  height: auto; /* Mantén la proporción de la imagen */
+}
+
+.imagen-texto p {
+  margin: 0; /* Elimina márgenes extras del párrafo */
+}
+.green{
+	color:#FFFAF0;
+	font-size:25px;
+}

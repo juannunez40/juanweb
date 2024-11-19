@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>PROGAMAS</title>
+		<meta charset="utf-8">
+		
+		<link rel="stylesheet" type="text/css" href="encabezado.css">
+		<link rel="stylesheet" type="text/css" href="fondos.css">
+
+	  
+
+	</head>
+	 
+	<body>
+	
+	<header>
+	    <div class="wrapper">
+	    	
+	   
+		<div  class="logo">
+		JUAN NUÑEZ
+		</div>
+		<nav>
+			<a href="proyecto.html"> Inicio</a>
+			<a href="index2.html"> ejemplos</a>
+			<a href="#"> Inicio</a>
+			<a href="#"> Inicio</a>
+			<a href="#"> Inicio</a>
+		</nav>
+		 </div>
+	</header>
+
+	
+	
+	<section class="contenido wrapper">
+	
+	<article>
+	
+	<h3><marquee>¿Qué es la Programación Informática?</marquee> </h3>
+	 
+	<hr>
+		<p>La programación informática es el proceso que incluye el diseño, codificación, mantenimiento y protección de programas, con el objetivo de crear software que pueda ejecutarse en computadoras, plataformas y otros dispositivos. Este campo busca facilitar el desarrollo de aplicaciones y herramientas digitales que satisfagan diversas necesidades.
+
+Hoy en día, aprender programación es más accesible que nunca, gracias a los cursos gratuitos en línea que enseñan desde los fundamentos hasta habilidades avanzadas tanto técnicas como blandas, esenciales en el mercado laboral actual. Estos cursos, ofrecidos por universidades y empresas líderes, ofrecen la oportunidad de mejorar la calidad de vida mediante la educación en línea y el aprendizaje de competencias valoradas en sectores tecnológicos. </p>
+	
+</article>
+
+	
+		</section>
+		
+		
+		
+		<section class="contenido wrapper">
+	
+	<article>
+	<h3><marquee>¿Qué es la Programación Informática?</marquee> </h3>
+	 
+	<hr>
+		<p>La programación informática es todo proceso que involucra el diseño, codificación, mantenimiento, y protección de cualquier fuente de programas. El objetivo principal de la programación informática es la creación de softwares, con el fin de ser ejecutados a través de computadoras, programas o plataformas. Desarrollar un programa informático nunca había sido tan fácil. </p>
+	
+</article>
+
+	
+		</section>
+		
+		<section class="contenido wrapper">
+	
+	<article>
+	intr
+	
+	<h3><marquee>¿Qué es la Programación Informática?</marquee> </h3>
+	 
+	<hr>
+		<p>La programación informática es todo proceso que involucra el diseño, codificación, mantenimiento, y protección de cualquier fuente de programas. El objetivo principal de la programación informática es la creación de softwares, con el fin de ser ejecutados a través de computadoras, programas o plataformas. Desarrollar un programa informático nunca había sido tan fácil.
+
+Comienza a aprender sobre programación informática hoy mismo. Cursos en línea gratis introductorios enfocados en desarrollar las habilidades blandas y técnicas de mayor demanda en el mercado laboral actual. Incrementa tu calidad de vida por medio de la educación en línea gratuita y de la mano de las mejores universidades y compañías del mundo. </p>
+
+<p>La programación informática es todo proceso que involucra el diseño, codificación, mantenimiento, y protección de cualquier fuente de programas. El objetivo principal de la programación informática es la creación de softwares, con el fin de ser ejecutados a través de computadoras, programas o plataformas. Desarrollar un programa informático nunca había sido tan fácil.
+
+Comienza a aprender sobre programación informática hoy mismo. Cursos en línea gratis introductorios enfocados en desarrollar las habilidades blandas y técnicas de mayor demanda en el mercado laboral actual. Incrementa tu calidad de vida por medio de la educación en línea gratuita y de la mano de las mejores universidades y compañías del mundo. </p>
+<p>La programación informática es todo proceso que involucra el diseño, codificación, mantenimiento, y protección de cualquier fuente de programas. El objetivo principal de la programación informática es la creación de softwares, con el fin de ser ejecutados a través de computadoras, programas o plataformas. Desarrollar un programa informático nunca había sido tan fácil.
+
+Comienza a aprender sobre programación informática hoy mismo. Cursos en línea gratis introductorios enfocados en desarrollar las habilidades blandas y técnicas de mayor demanda en el mercado laboral actual. Incrementa tu calidad de vida por medio de la educación en línea gratuita y de la mano de las mejores universidades y compañías del mundo. </p>
+
+<p>La programación informática es todo proceso que involucra el diseño, codificación, mantenimiento, y protección de cualquier fuente de programas. El objetivo principal de la programación informática es la creación de softwares, con el fin de ser ejecutados a través de computadoras, programas o plataformas. Desarrollar un programa informático nunca había sido tan fácil.
+
+Comienza a aprender sobre programación informática hoy mismo. Cursos en línea gratis introductorios enfocados en desarrollar las habilidades blandas y técnicas de mayor demanda en el mercado laboral actual. Incrementa tu calidad de vida por medio de la educación en línea gratuita y de la mano de las mejores universidades y compañías del mundo. </p>
+	
+</article>
+
+	
+		</section>
+		
+		
+</body>
+</html>
